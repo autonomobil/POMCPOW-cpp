@@ -1,2 +1,2 @@
 # POMCPOW-cpp
-https://github.com/JuliaPOMDP/POMCPOW.jl
+from https://github.com/JuliaPOMDP/POMCPOW.jl
